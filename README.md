@@ -39,4 +39,4 @@ This project taught me how to combine design precision with animation logic, how
 
 🌍 Live Demo
 
-👉 Live Project Link (Add your deployed link here)
+👉 Live Project Link http://127.0.0.1:3000/index.html
